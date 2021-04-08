@@ -1,5 +1,14 @@
 ### Hello there! 👋
 
+I am Souvik Banerjee, currently a PhD research scholar in Biostatistics at Indian Institute of Technology (Indian School of Mines), Dhanbad.
+
+My research interest focuses on developing risk models for cancer biomarker data. My methodological research areas broadly cover survival analysis, joint modelinhg of longitudinal and survival data, frailty analysis, identification of risk heterogeneity, missing data analysis, machine learning in survival analysis etc.
+
+I am comfortable working in R and an avid learner of programming codes used in different packages. 
+
+My personal webpage is under construction. I will publish it here as soon as it gets a presentable form. Feel free to get in touch if you have any question. My contact details are given in the profile page.
+
+Cheers!
 <!--
 **souvikbanerjee91/souvikbanerjee91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
